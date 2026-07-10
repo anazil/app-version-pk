@@ -2,13 +2,11 @@
   "android": {
     "latest_version": "8.7.0",
     "min_version": "8.0.0",
-    "force_update": false,
     "store_url": "https://play.google.com/store/apps/details?id=com.peekay.minimart&pcampaignid=web_share"
   },
   "ios": {
     "latest_version": "8.7.0",
     "min_version": "8.0.0",
-    "force_update": false,
     "store_url": "https://apps.apple.com/in/app/pkwholesale/id6773263257"
   },
   "release_notes": "What's new in v9.0.0:\n- Faster loading\n- Bug fixes\n- New products added"
